@@ -1,0 +1,9 @@
+﻿machine_id,machine_name,category,brand,model,line_area,installation_year,controller_type,power_rating_kw,status,last_pm_date,next_pm_date,criticality_level,assigned_technician
+CNC-01,CNC Milling 5-Axis,Machining,Fanuc,Robodrill D21MiB5,Line 1 - Machining Shop,2021,Fanuc 31i-B5,15.0,Normal,2026-09-15,2026-10-15,High,สมศักดิ์ ขันทอง
+INJ-02,Plastic Injection Molding 250T,Molding,Mitsubishi,250emIII-14U,Line 2 - Cleanroom Molding,2019,MAC-IX Controller,37.5,Warning,2026-09-02,2026-10-02,Critical,ธีรเดช เจริญสุข
+ROB-04,6-Axis Arc Welding Robot,Robotics,Yaskawa,Motoman AR1440,Line 1 - Welding Cell,2022,YRC1000,8.5,Normal,2026-09-20,2026-10-20,High,อนุชา สุริยา
+COMP-01,Rotary Screw Air Compressor,Utility,Atlas Copco,GA 37 VSD+,Utility House,2018,Elektronikon Touch,37.0,Normal,2026-08-25,2026-11-25,Critical,สมคิด ป้องภัย
+CNC-02,CNC Turning Center (Lathe),Machining,Mazak,Quick Turn 250MSY,Line 1 - Machining Shop,2020,SmoothG,22.0,Normal,2026-09-10,2026-10-10,High,สมศักดิ์ ขันทอง
+PLC-01,Automated Packaging Conveyor,Assembly & Packing,Siemens,Simatic S7-1500 System,Line 3 - Packaging Line,2023,CPU 1516-3 PN/DP,11.0,Normal,2026-09-28,2026-10-28,Medium,ประสิทธิ์ ชัยมงคล
+PRESS-01,Hydraulic Stamping Press 160T,Metal Forming,AIDA,NCX-1600(2),Line 4 - Press Shop,2017,AIDA MPC Series,45.0,Warning,2026-08-30,2026-09-30,Critical,วิทยา การุณย์
+CHILL-01,Industrial Water Chiller 50RT,Utility,Daikin,UATYQ50MC,Utility House,2019,MicroTech III,35.0,Normal,2026-09-05,2026-12-05,Medium,สมคิด ป้องภัย

@@ -1,0 +1,7 @@
+﻿year_month,total_operating_hours,planned_production_hours,unplanned_downtime_hours,failure_count,mtbf_hours,mttr_minutes,oee_availability_pct,oee_performance_pct,oee_quality_pct,oee_overall_pct,pm_count,bm_count,pm_ratio_pct,ai_queries_count,first_time_fix_rate_pct,estimated_cost_saved_thb
+2026-04,3600,3840,42.5,16,225.0,159.4,88.9,86.4,96.8,74.3,18,16,52.9,42,64.2,85000
+2026-05,3650,3840,34.0,13,280.8,122.3,91.1,87.5,97.2,77.5,22,13,62.9,95,72.5,155000
+2026-06,3710,3840,22.5,9,412.2,85.0,94.1,89.2,97.8,82.1,26,9,74.3,168,81.0,260000
+2026-07,3740,3840,14.2,6,623.3,52.0,96.3,90.5,98.2,85.6,28,6,82.4,240,86.5,345000
+2026-08,3770,3840,8.8,4,942.5,38.5,97.7,91.2,98.4,87.7,30,4,88.2,310,89.2,410000
+2026-09,3800,3840,4.5,2,1900.0,28.0,98.8,92.0,98.6,89.6,32,2,94.1,385,92.4,465000
